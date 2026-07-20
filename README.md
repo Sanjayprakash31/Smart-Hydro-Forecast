@@ -1,16 +1,16 @@
-💧 Smart Hydro Forecast
+#💧 Smart Hydro Forecast
 An AI-powered Machine Learning application for predicting hydroelectric power generation based on environmental and reservoir conditions.
 
-📌 Project Overview
+##📌 Project Overview
 Smart Hydro Forecast predicts hydroelectric power generation using historical hydrological and weather data. The application helps estimate future power generation using Machine Learning.
 
-🚀 Features
+##🚀 Features
 Predict hydroelectric power generation
 User-friendly Streamlit web application
 Machine Learning based prediction
 Interactive input fields
 Fast and accurate results
-🛠️ Technologies Used
+##🛠️ Technologies Used
 Python
 Streamlit
 Pandas
@@ -19,7 +19,7 @@ Scikit-learn
 Joblib
 Matplotlib
 Seaborn
-📂 Dataset Features
+##📂 Dataset Features
 Rainfall (mm)
 Temperature (°C)
 Humidity (%)
@@ -31,16 +31,16 @@ Reservoir Storage (%)
 Year
 Month
 Day
-🎯 Target
+##🎯 Target
 Power Generation (MW)
 📊 Model Performance
 MAE: 6.19
 RMSE: 7.60
 R² Score: 0.983
-▶️ Run Locally
+##▶️ Run Locally
 Clone the repository
 
-git clone https://github.com/Naveenguru07/Smart-Hydro-Forecast.git
+git clone(https://github.com/Sanjayprakash31/Smart-Hydro-Forecast.git)
 Install dependencies
 
 pip install -r requirements.txt
